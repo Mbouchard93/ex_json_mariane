@@ -1,0 +1,33 @@
+@use "sass:list";
+
+$colNum: 12;
+$colArray: "";
+
+@for $i from 1 through $colNum {
+  $colArray: list.append($colArray, $i, comma);
+}
+
+@each $col in $colArray {
+  .col-start-#{$col} {
+    grid-column-start: $col;
+  }
+  .col-start-#{$col} {
+    grid-column-end: span $col;
+  }
+}
+
+$rowNum: 5;
+$rowArray: "";
+
+@for $i from 1 through $rowNum {
+  $rowArray: list.append($rowArray, $i, comma);
+}
+
+@each $col in $rowArray {
+  .col-start-#{$col} {
+    grid-row-start: $col;
+  }
+  .col-start-#{$col} {
+    grid-row-end: span $col;
+  }
+}

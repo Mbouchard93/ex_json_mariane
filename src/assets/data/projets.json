@@ -1,0 +1,81 @@
+[
+  {
+    "id": "1",
+    "name": "Projet1",
+    "img": "/assets/static/projet1.png",
+    "date": "10/20/2024",
+    "type": "programmation",
+    "description": "je suis une description",
+    "liens": {
+      "github": "https://github.com/becma/ex_json.git"
+    },
+
+    "stack": ["html", "sass", "javascript", "npm"],
+    "colStart": "1"
+  },
+  {
+    "id": "2",
+    "name": "Projet2",
+    "img": "/assets/static/projet1.png",
+    "date": "11/08/2023",
+    "type": "programmation",
+    "description": "je suis une description",
+    "liens": {
+      "github": "https://github.com/becma/ex_json.git"
+    },
+
+    "stack": ["html", "sass", "javascript", "npm"]
+  },
+  {
+    "id": "3",
+    "name": "Projet3",
+    "img": "/assets/static/projet1.png",
+    "date": "11/08/2023",
+    "type": "programmation",
+    "description": "je suis une description",
+    "liens": {
+      "github": "https://github.com/becma/ex_json.git"
+    },
+
+    "stack": ["html", "sass", "javascript", "npm"]
+  },
+  {
+    "id": "4",
+    "name": "Projet4",
+    "img": "/assets/static/projet1.png",
+    "date": "11/08/2023",
+    "type": "programmation",
+    "description": "je suis une description",
+    "liens": {
+      "github": "https://github.com/becma/ex_json.git"
+    },
+
+    "stack": ["html", "sass", "javascript", "npm"]
+  },
+  {
+    "id": "5",
+    "name": "Projet5",
+    "img": "/assets/static/projet1.png",
+    "date": "11/08/2023",
+    "type": "programmation",
+    "description": "je suis une description",
+    "liens": {
+      "github": "https://github.com/becma/ex_json.git"
+    },
+
+    "stack": ["html", "sass", "javascript", "npm"]
+  },
+  {
+    "id": "6",
+    "name": "Projet6",
+    "img": "/assets/static/projet1.png",
+    "date": "11/08/2023",
+    "type": "programmation",
+    "description": "je suis une description",
+    "liens": {
+      "github": "https://github.com/becma/ex_json.git"
+    },
+
+    "stack": ["html", "sass", "javascript", "npm"]
+  }
+]
